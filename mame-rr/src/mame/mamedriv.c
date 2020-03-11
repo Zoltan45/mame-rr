@@ -4996,7 +4996,7 @@ BOMULEUL CHAJARA SEGA ST-V  1997/04/11
 	DRIVER( acombato )	/* bootleg */
 	DRIVER( sstarbtl )	/* bootleg */
 	DRIVER( spfghmk2 )	/* (c) [1979] Data East Corporation */
-	DRIVER( spfghmk22 )	/* (c) [1979] Data East Corporation */
+	DRIVER( spfgh2 )	/* (c) [1979] Data East Corporation */
 	DRIVER( tomahawk )	/* (c) 1980 Data East, Inc. */
 	DRIVER( tomahawk1 )	/* (c) 1980 Data East, Inc. */
 	DRIVER( progolf )	/* (c) 1981 */
@@ -7050,6 +7050,7 @@ BOMULEUL CHAJARA SEGA ST-V  1997/04/11
 	DRIVER( mk2r42 )	/* hack */
 	DRIVER( mk2r91 )	/* hack */
 	DRIVER( mk2chal )	/* hack */
+	DRIVER( mk2p )		/* hack */
 	DRIVER( jdreddp )	/* (c) 1993 Midway */
 	DRIVER( nbajam )	/* (c) 1993 Midway */
 	DRIVER( nbajamr2 )	/* (c) 1993 Midway */
@@ -7065,6 +7066,7 @@ BOMULEUL CHAJARA SEGA ST-V  1997/04/11
 	DRIVER( umk3 )		/* (c) 1994 Midway */
 	DRIVER( umk3r11 )	/* (c) 1994 Midway */
 	DRIVER( umk3r10 )	/* (c) 1994 Midway */
+	DRIVER( umk3p ) 	/* hack */
 	DRIVER( wwfmania )	/* (c) 1995 Midway */
 	DRIVER( wwfmaniab )	/* (c) 1995 Midway */
 	DRIVER( openice )	/* (c) 1995 Midway */
